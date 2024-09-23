@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+    <string name="number_1">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="multiplySymbol">*</string>
+    <string name="divideSymbol">/</string>
+    <string name="addSymbol">+</string>
+    <string name="subtractSymbol">-</string>
+    <string name="calculator">Calculator</string>
+    <string name="textview">TextView</string>
+</resources>
